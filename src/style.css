@@ -1,0 +1,26 @@
+
+.title{
+    text-align: center;
+    padding: 70px;
+}
+.red{
+    color: rgb(250, 236, 236);
+}
+.para{
+    color: beige;
+    text-align: center;
+    margin: 50px;
+    padding: 0 90px;
+    line-height: 50px;
+    font-size: 20px;
+
+}
+.zodiac{
+    color: grey;
+    line-height: 50px;
+    font-size: 20px;
+}
+.element{
+font-weight: 700;
+font-size: 30px;
+}
